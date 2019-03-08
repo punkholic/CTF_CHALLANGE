@@ -1,0 +1,43 @@
+body{
+    background-image: url(a.png);
+    background-position: center;
+}
+form{
+    margin-top:10%;
+    margin-left:45%;
+}
+#submitButton{
+    margin-left:8%;
+    margin-top:5%;
+    background: rgb(87, 41, 41);
+    color: white;
+    padding-left:3%;
+    padding-right:3%;
+    transition: 1s;
+}
+#submitButton:hover{
+    padding-top:1%;
+    padding-bottom:1%;
+    padding-left:4%;
+    padding-right:4%;
+    font-size: 20px;
+    color:white;
+    background: rgba(182, 27, 27, 0);
+}
+#output{
+    align-content: center;
+    text-align: center;
+    border: 2px solid rgba(182, 151, 130, 0.774);
+    margin: 0px 20% 0px 20%;
+}
+#output h1{
+    color: azure;  
+}
+#result{
+    color: red !important;
+}
+#heading{
+    margin-top: 5%;
+    text-align: center;
+    color: white;
+}
