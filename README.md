@@ -1,2 +1,2 @@
-# CTF_CHALLANGE
-A simple CTF challange
+# CTF_CHALLENGE
+A simple CTF challenge
